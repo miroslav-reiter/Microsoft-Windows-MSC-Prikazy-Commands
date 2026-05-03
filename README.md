@@ -101,11 +101,3 @@ Oficiálna dokumentácia Microsoftu k súborom konzoly Microsoft Management Cons
    Praktický komunitný prehľad príkazov používaných v okne Spustiť vo Windows. Zdroj je vhodný ako doplnkový prehľad, nie ako primárna autoritatívna dokumentácia.
    Dostupné na: [https://rtech.support/learning/run-commands/](https://rtech.support/learning/run-commands/)
   
-
-[1]: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands "Windows commands | Microsoft Learn"
-[2]: https://rtech.support/learning/run-commands/ "Windows Run Dialog Commands | rTS Wiki"
-
-
-## Licencia
-
-Materiál je určený na vzdelávacie účely.
