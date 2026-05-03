@@ -88,7 +88,23 @@ Pri práci s konzolami ako `diskmgmt.msc`, `certmgr.msc`, `certlm.msc`, `adsiedi
 
 ## Zdroje
 
-Microsoft Learn: Microsoft Management Console, snap-ins a MMC console files.
+1. **Microsoft. MMC Console Files. Microsoft Learn.**
+Oficiálna dokumentácia Microsoftu k súborom konzoly Microsoft Management Console. Vysvetľuje, že konzolu MMC s jedným alebo viacerými snap-in nástrojmi môžeme uložiť ako súbor s príponou .msc, pričom administrátori môžu vytvárať vlastné konzoly prispôsobené konkrétnym úlohám a úrovni používateľov. Dostupné na: https://learn.microsoft.com/en-us/previous-versions/windows/desktop/mmc/mmc-console-files
+
+
+2. **Microsoft. Windows Commands. Microsoft Learn.**
+   Oficiálna dokumentácia Microsoftu k príkazom systému Windows. Obsahuje prehľad príkazov dostupných vo Windows a Windows Server, vrátane informácií k príkazovým prostrediam Command Shell a PowerShell.
+   Dostupné na: [https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+  
+
+3. **rTech Support. Windows Run Dialog Commands. rTS Wiki.**
+   Praktický komunitný prehľad príkazov používaných v okne Spustiť vo Windows. Zdroj je vhodný ako doplnkový prehľad, nie ako primárna autoritatívna dokumentácia.
+   Dostupné na: [https://rtech.support/learning/run-commands/](https://rtech.support/learning/run-commands/)
+  
+
+[1]: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands "Windows commands | Microsoft Learn"
+[2]: https://rtech.support/learning/run-commands/ "Windows Run Dialog Commands | rTS Wiki"
+
 
 ## Licencia
 
