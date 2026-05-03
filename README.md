@@ -1,4 +1,4 @@
-# Microsoft Windows MSC Commands
+# 🖥️ Microsoft Windows MSC Commands
 
 Prehľad najdôležitejších príkazov Microsoft Management Console v systéme Microsoft Windows.
 
