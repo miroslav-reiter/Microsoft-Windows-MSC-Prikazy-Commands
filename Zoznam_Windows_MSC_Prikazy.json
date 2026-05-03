@@ -1,0 +1,240 @@
+[
+  {
+    "N": 1,
+    "Príkaz": "mmc",
+    "Položka ovládacieho panelu [EN]": "Microsoft Management Console",
+    "Položka ovládacieho panelu [SK]": "Microsoft Management Console",
+    "Popis": "Otvorí základné administračné prostredie na pridávanie, otváranie a vytváranie konzol so snap-in nástrojmi. Nie je to .msc súbor, ale hlavná konzola, z ktorej .msc nástroje vychádzajú."
+  },
+  {
+    "N": 2,
+    "Príkaz": "adfs.msc",
+    "Položka ovládacieho panelu [EN]": "Active Directory Federation Services",
+    "Položka ovládacieho panelu [SK]": "Active Directory Federation Services",
+    "Popis": "Slúži na správu federovaného prihlasovania a identity v prostredí Active Directory."
+  },
+  {
+    "N": 3,
+    "Príkaz": "AdRmsAdmin.msc",
+    "Položka ovládacieho panelu [EN]": "Active Directory Rights Management Services",
+    "Položka ovládacieho panelu [SK]": "Active Directory Rights Management Services",
+    "Popis": "Slúži na správu ochrany dokumentov, prístupových práv a informačnej ochrany."
+  },
+  {
+    "N": 4,
+    "Príkaz": "adsiedit.msc",
+    "Položka ovládacieho panelu [EN]": "ADSI Edit",
+    "Položka ovládacieho panelu [SK]": "ADSI Edit",
+    "Popis": "Pokročilý nástroj na priamu úpravu objektov v Active Directory. Používame ho opatrne."
+  },
+  {
+    "N": 5,
+    "Príkaz": "azman.msc",
+    "Položka ovládacieho panelu [EN]": "Authorization Manager",
+    "Položka ovládacieho panelu [SK]": "Správca autorizácie",
+    "Popis": "Starší nástroj na správu autorizačných pravidiel v aplikáciách."
+  },
+  {
+    "N": 6,
+    "Príkaz": "certlm.msc",
+    "Položka ovládacieho panelu [EN]": "Certificates - Local Computer",
+    "Položka ovládacieho panelu [SK]": "Certifikáty lokálneho počítača",
+    "Popis": "Otvorí certifikáty lokálneho počítača. Používame ho pri správe systémových a strojových certifikátov."
+  },
+  {
+    "N": 7,
+    "Príkaz": "certmgr.msc",
+    "Položka ovládacieho panelu [EN]": "Certificates - Current User",
+    "Položka ovládacieho panelu [SK]": "Certifikáty aktuálneho používateľa",
+    "Popis": "Otvorí certifikáty aktuálneho používateľa. Spravuje certifikáty používateľa, nie certifikáty celého počítača."
+  },
+  {
+    "N": 8,
+    "Príkaz": "certsrv.msc",
+    "Položka ovládacieho panelu [EN]": "Certification Authority",
+    "Položka ovládacieho panelu [SK]": "Certifikačná autorita",
+    "Popis": "Slúži na správu certifikačnej autority v prostredí Windows Server."
+  },
+  {
+    "N": 9,
+    "Príkaz": "certtmpl.msc",
+    "Položka ovládacieho panelu [EN]": "Certificate Templates",
+    "Položka ovládacieho panelu [SK]": "Šablóny certifikátov",
+    "Popis": "Slúži na správu šablón certifikátov v prostredí Active Directory."
+  },
+  {
+    "N": 10,
+    "Príkaz": "cluadmin.msc",
+    "Položka ovládacieho panelu [EN]": "Failover Cluster Manager",
+    "Položka ovládacieho panelu [SK]": "Správca klastra pri zlyhaní",
+    "Popis": "Slúži na správu klastrov s vysokou dostupnosťou."
+  },
+  {
+    "N": 11,
+    "Príkaz": "comexp.msc",
+    "Položka ovládacieho panelu [EN]": "Component Services",
+    "Položka ovládacieho panelu [SK]": "Komponentové služby",
+    "Popis": "Slúži na správu COM+ aplikácií, DCOM konfigurácie a komponentových služieb."
+  },
+  {
+    "N": 12,
+    "Príkaz": "compmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "Computer Management",
+    "Položka ovládacieho panelu [SK]": "Správa počítača",
+    "Popis": "Združuje viacero nástrojov, napríklad udalosti, služby, používateľov, zariadenia a disky."
+  },
+  {
+    "N": 13,
+    "Príkaz": "devmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "Device Manager",
+    "Položka ovládacieho panelu [SK]": "Správca zariadení",
+    "Popis": "Slúži na kontrolu hardvéru, ovládačov a problémových zariadení."
+  },
+  {
+    "N": 14,
+    "Príkaz": "dfsmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "DFS Management",
+    "Položka ovládacieho panelu [SK]": "Správa DFS",
+    "Popis": "Slúži na správu distribuovaného súborového systému a replikácie."
+  },
+  {
+    "N": 15,
+    "Príkaz": "dhcpmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "DHCP Manager",
+    "Položka ovládacieho panelu [SK]": "Správca DHCP",
+    "Popis": "Slúži na správu rozsahov, prenájmov a nastavení DHCP servera."
+  },
+  {
+    "N": 16,
+    "Príkaz": "diskmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "Disk Management",
+    "Položka ovládacieho panelu [SK]": "Správa diskov",
+    "Popis": "Slúži na správu diskov, oddielov, formátovania a písmen jednotiek."
+  },
+  {
+    "N": 17,
+    "Príkaz": "dnsmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "DNS Manager",
+    "Položka ovládacieho panelu [SK]": "Správca DNS",
+    "Popis": "Slúži na správu DNS zón, záznamov a DNS serverov."
+  },
+  {
+    "N": 18,
+    "Príkaz": "domain.msc",
+    "Položka ovládacieho panelu [EN]": "Active Directory Domains and Trusts",
+    "Položka ovládacieho panelu [SK]": "Domény a vzťahy dôvery Active Directory",
+    "Popis": "Slúži na správu domén a vzťahov dôvery."
+  },
+  {
+    "N": 19,
+    "Príkaz": "dsa.msc",
+    "Položka ovládacieho panelu [EN]": "Active Directory Users and Computers",
+    "Položka ovládacieho panelu [SK]": "Používatelia a počítače služby Active Directory",
+    "Popis": "Slúži na správu doménových používateľov, skupín a počítačov."
+  },
+  {
+    "N": 20,
+    "Príkaz": "eventvwr.msc",
+    "Položka ovládacieho panelu [EN]": "Event Viewer",
+    "Položka ovládacieho panelu [SK]": "Zobrazovač udalostí",
+    "Popis": "Používame ho na diagnostiku chýb systému, aplikácií a bezpečnostných udalostí."
+  },
+  {
+    "N": 21,
+    "Príkaz": "fsmgmt.msc",
+    "Položka ovládacieho panelu [EN]": "Shared Folders",
+    "Položka ovládacieho panelu [SK]": "Zdieľané priečinky",
+    "Popis": "Slúži na kontrolu zdieľaní, relácií a otvorených súborov."
+  },
+  {
+    "N": 22,
+    "Príkaz": "gpedit.msc",
+    "Položka ovládacieho panelu [EN]": "Local Group Policy Editor",
+    "Položka ovládacieho panelu [SK]": "Editor lokálnej politiky skupiny",
+    "Popis": "Slúži na konfiguráciu pravidiel systému a používateľov."
+  },
+  {
+    "N": 23,
+    "Príkaz": "gpmc.msc",
+    "Položka ovládacieho panelu [EN]": "Group Policy Management",
+    "Položka ovládacieho panelu [SK]": "Správa politiky skupiny",
+    "Popis": "Slúži na centrálnu správu objektov politiky skupiny v doméne."
+  },
+  {
+    "N": 24,
+    "Príkaz": "iis.msc",
+    "Položka ovládacieho panelu [EN]": "Internet Information Services Manager",
+    "Položka ovládacieho panelu [SK]": "Správca Internet Information Services",
+    "Popis": "Slúži na správu webového servera IIS, ak je nainštalovaný."
+  },
+  {
+    "N": 25,
+    "Príkaz": "lusrmgr.msc",
+    "Položka ovládacieho panelu [EN]": "Local Users and Groups",
+    "Položka ovládacieho panelu [SK]": "Lokálni používatelia a skupiny",
+    "Popis": "Slúži na správu lokálnych účtov a skupín."
+  },
+  {
+    "N": 26,
+    "Príkaz": "perfmon.msc",
+    "Položka ovládacieho panelu [EN]": "Performance Monitor",
+    "Položka ovládacieho panelu [SK]": "Monitor výkonu",
+    "Popis": "Používame ho na sledovanie výkonu procesora, pamäte, diskov a siete."
+  },
+  {
+    "N": 27,
+    "Príkaz": "printmanagement.msc",
+    "Položka ovládacieho panelu [EN]": "Print Management",
+    "Položka ovládacieho panelu [SK]": "Správa tlače",
+    "Popis": "Slúži na správu tlačiarní, ovládačov, portov a tlačových serverov."
+  },
+  {
+    "N": 28,
+    "Príkaz": "rsop.msc",
+    "Položka ovládacieho panelu [EN]": "Resultant Set of Policy",
+    "Položka ovládacieho panelu [SK]": "Výsledná množina politík",
+    "Popis": "Slúži na kontrolu, ktoré politiky sa reálne aplikovali na počítač alebo používateľa."
+  },
+  {
+    "N": 29,
+    "Príkaz": "secpol.msc",
+    "Položka ovládacieho panelu [EN]": "Local Security Policy",
+    "Položka ovládacieho panelu [SK]": "Lokálna politika zabezpečenia",
+    "Popis": "Používame ju na nastavenie hesiel, auditovania a bezpečnostných pravidiel."
+  },
+  {
+    "N": 30,
+    "Príkaz": "services.msc",
+    "Položka ovládacieho panelu [EN]": "Services",
+    "Položka ovládacieho panelu [SK]": "Služby",
+    "Popis": "Používame ho na spúšťanie, zastavenie, reštartovanie a nastavenie typu štartu služieb Windows."
+  },
+  {
+    "N": 31,
+    "Príkaz": "taskschd.msc",
+    "Položka ovládacieho panelu [EN]": "Task Scheduler",
+    "Položka ovládacieho panelu [SK]": "Plánovač úloh",
+    "Popis": "Slúži na automatické spúšťanie programov, skriptov a systémových akcií."
+  },
+  {
+    "N": 32,
+    "Príkaz": "tpm.msc",
+    "Položka ovládacieho panelu [EN]": "TPM Management",
+    "Položka ovládacieho panelu [SK]": "Správa TPM",
+    "Popis": "Slúži na kontrolu bezpečnostného čipu používaného napríklad pri BitLocker šifrovaní."
+  },
+  {
+    "N": 33,
+    "Príkaz": "wf.msc",
+    "Položka ovládacieho panelu [EN]": "Windows Defender Firewall with Advanced Security",
+    "Položka ovládacieho panelu [SK]": "Windows Defender Firewall s pokročilým zabezpečením",
+    "Popis": "Slúži na správu prichádzajúcich a odchádzajúcich pravidiel firewallu."
+  },
+  {
+    "N": 34,
+    "Príkaz": "wmimgmt.msc",
+    "Položka ovládacieho panelu [EN]": "WMI Control",
+    "Položka ovládacieho panelu [SK]": "Ovládací prvok WMI",
+    "Popis": "Používame ho pri kontrole a konfigurácii služby Windows Management Instrumentation."
+  }
+]
