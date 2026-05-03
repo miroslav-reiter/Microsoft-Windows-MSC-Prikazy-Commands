@@ -1,0 +1,35 @@
+﻿N;Príkaz;Položka ovládacieho panelu [EN];Položka ovládacieho panelu [SK];Popis
+1;mmc;Microsoft Management Console;Microsoft Management Console;Otvorí základné administračné prostredie na pridávanie, otváranie a vytváranie konzol so snap-in nástrojmi. Nie je to .msc súbor, ale hlavná konzola, z ktorej .msc nástroje vychádzajú.
+2;adfs.msc;Active Directory Federation Services;Active Directory Federation Services;Slúži na správu federovaného prihlasovania a identity v prostredí Active Directory.
+3;AdRmsAdmin.msc;Active Directory Rights Management Services;Active Directory Rights Management Services;Slúži na správu ochrany dokumentov, prístupových práv a informačnej ochrany.
+4;adsiedit.msc;ADSI Edit;ADSI Edit;Pokročilý nástroj na priamu úpravu objektov v Active Directory. Používame ho opatrne.
+5;azman.msc;Authorization Manager;Správca autorizácie;Starší nástroj na správu autorizačných pravidiel v aplikáciách.
+6;certlm.msc;Certificates - Local Computer;Certifikáty lokálneho počítača;Otvorí certifikáty lokálneho počítača. Používame ho pri správe systémových a strojových certifikátov.
+7;certmgr.msc;Certificates - Current User;Certifikáty aktuálneho používateľa;Otvorí certifikáty aktuálneho používateľa. Spravuje certifikáty používateľa, nie certifikáty celého počítača.
+8;certsrv.msc;Certification Authority;Certifikačná autorita;Slúži na správu certifikačnej autority v prostredí Windows Server.
+9;certtmpl.msc;Certificate Templates;Šablóny certifikátov;Slúži na správu šablón certifikátov v prostredí Active Directory.
+10;cluadmin.msc;Failover Cluster Manager;Správca klastra pri zlyhaní;Slúži na správu klastrov s vysokou dostupnosťou.
+11;comexp.msc;Component Services;Komponentové služby;Slúži na správu COM+ aplikácií, DCOM konfigurácie a komponentových služieb.
+12;compmgmt.msc;Computer Management;Správa počítača;Združuje viacero nástrojov, napríklad udalosti, služby, používateľov, zariadenia a disky.
+13;devmgmt.msc;Device Manager;Správca zariadení;Slúži na kontrolu hardvéru, ovládačov a problémových zariadení.
+14;dfsmgmt.msc;DFS Management;Správa DFS;Slúži na správu distribuovaného súborového systému a replikácie.
+15;dhcpmgmt.msc;DHCP Manager;Správca DHCP;Slúži na správu rozsahov, prenájmov a nastavení DHCP servera.
+16;diskmgmt.msc;Disk Management;Správa diskov;Slúži na správu diskov, oddielov, formátovania a písmen jednotiek.
+17;dnsmgmt.msc;DNS Manager;Správca DNS;Slúži na správu DNS zón, záznamov a DNS serverov.
+18;domain.msc;Active Directory Domains and Trusts;Domény a vzťahy dôvery Active Directory;Slúži na správu domén a vzťahov dôvery.
+19;dsa.msc;Active Directory Users and Computers;Používatelia a počítače služby Active Directory;Slúži na správu doménových používateľov, skupín a počítačov.
+20;eventvwr.msc;Event Viewer;Zobrazovač udalostí;Používame ho na diagnostiku chýb systému, aplikácií a bezpečnostných udalostí.
+21;fsmgmt.msc;Shared Folders;Zdieľané priečinky;Slúži na kontrolu zdieľaní, relácií a otvorených súborov.
+22;gpedit.msc;Local Group Policy Editor;Editor lokálnej politiky skupiny;Slúži na konfiguráciu pravidiel systému a používateľov.
+23;gpmc.msc;Group Policy Management;Správa politiky skupiny;Slúži na centrálnu správu objektov politiky skupiny v doméne.
+24;iis.msc;Internet Information Services Manager;Správca Internet Information Services;Slúži na správu webového servera IIS, ak je nainštalovaný.
+25;lusrmgr.msc;Local Users and Groups;Lokálni používatelia a skupiny;Slúži na správu lokálnych účtov a skupín.
+26;perfmon.msc;Performance Monitor;Monitor výkonu;Používame ho na sledovanie výkonu procesora, pamäte, diskov a siete.
+27;printmanagement.msc;Print Management;Správa tlače;Slúži na správu tlačiarní, ovládačov, portov a tlačových serverov.
+28;rsop.msc;Resultant Set of Policy;Výsledná množina politík;Slúži na kontrolu, ktoré politiky sa reálne aplikovali na počítač alebo používateľa.
+29;secpol.msc;Local Security Policy;Lokálna politika zabezpečenia;Používame ju na nastavenie hesiel, auditovania a bezpečnostných pravidiel.
+30;services.msc;Services;Služby;Používame ho na spúšťanie, zastavenie, reštartovanie a nastavenie typu štartu služieb Windows.
+31;taskschd.msc;Task Scheduler;Plánovač úloh;Slúži na automatické spúšťanie programov, skriptov a systémových akcií.
+32;tpm.msc;TPM Management;Správa TPM;Slúži na kontrolu bezpečnostného čipu používaného napríklad pri BitLocker šifrovaní.
+33;wf.msc;Windows Defender Firewall with Advanced Security;Windows Defender Firewall s pokročilým zabezpečením;Slúži na správu prichádzajúcich a odchádzajúcich pravidiel firewallu.
+34;wmimgmt.msc;WMI Control;Ovládací prvok WMI;Používame ho pri kontrole a konfigurácii služby Windows Management Instrumentation.
